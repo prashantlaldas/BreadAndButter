@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "657424914184",
+    "firebase_url": "https://bread-and-butter-3ace2.firebaseio.com",
+    "project_id": "bread-and-butter-3ace2",
+    "storage_bucket": "bread-and-butter-3ace2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657424914184:android:f354d3c4ddeb86d1",
+        "android_client_info": {
+          "package_name": "com.prashantlal.breadandbutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657424914184-adj8s5v0cmncp37e2tkerdkp0e5gsjf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prashantlal.breadandbutter",
+            "certificate_hash": "e76bc6388eb1f0ed4ebaa1a8ebbf16b26db796c6"
+          }
+        },
+        {
+          "client_id": "657424914184-07qg69fees37ee9nr0ht0l1o862i0ajl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxxiEIsi7EcjJJRZOm8NWfsBhTES3CuDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657424914184-07qg69fees37ee9nr0ht0l1o862i0ajl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
